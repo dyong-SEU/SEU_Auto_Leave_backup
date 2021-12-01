@@ -1,3 +1,7 @@
+备份[@quzard](https://github.com/quzard)的请假脚本
+
+-----------
+
 # SEU_Auto_Leave
 东南大学自动请假 研究生和本科生
 
